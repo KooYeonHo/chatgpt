@@ -1,1 +1,1 @@
-"# chatgpt" 
+GPT API 학습기록
